@@ -17,14 +17,8 @@ This project is a simple Machine Learning model that classifies email messages a
 5. Evaluate model accuracy  
 6. Predict new email messages  
 
-## 🧪 Example Prediction
+Author
 
-```python
-input_mail = ["Hey, your appointment is confirmed for tomorrow."]
-input_data_features = feature_extraction.transform(input_mail)
-prediction = model.predict(input_data_features)
-
-if prediction[0] == 1:
-    print("Ham (Not Spam)")
-else:
-    print("Spam")
+Chahla Bechina
+Master Student in Artificial Intelligence
+Biskra University, Algeria
